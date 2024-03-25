@@ -26,6 +26,6 @@ Advanced bootcamp focused exclusively on Zero Knowledge Machine Learning. Taught
 
 [_Lance Davis_/**Gizatech**](https://www.linkedin.com/in/lancendavis/)
 
-[_Ryan Cao_/*Modulus**](https://www.linkedin.com/in/ryan-cao/)
+[_Ryan Cao_/**Modulus**](https://www.linkedin.com/in/ryan-cao/)
 
 [_Tomer Solberg_/**Ingonyama**](https://www.linkedin.com/in/tomer-solberg-a319a03/)
