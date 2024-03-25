@@ -4,8 +4,6 @@ Advanced bootcamp focused exclusively on Zero Knowledge Machine Learning. Taught
 > ###### [Hacker pack](https://encodeclub.notion.site/zkML-Bootcamp-Q1-2024-56797105136243a5b60d0cd509a13bf6)
 >
 > ###### [Discord](https://discord.gg/encodeclub)
->
-> ###### [Slido](https://app.sli.do/event/----/live/questions)
 
 ## ![ZK](./img/ZK-ML_boot_banner_01.jpg)
 
