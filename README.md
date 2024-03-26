@@ -29,3 +29,9 @@ Advanced bootcamp focused exclusively on Zero Knowledge Machine Learning. Taught
 [_Ryan Cao_/**Modulus**](https://www.linkedin.com/in/ryan-cao/)
 
 [_Tomer Solberg_/**Ingonyama**](https://www.linkedin.com/in/tomer-solberg-a319a03/)
+
+## Videos
+
+> 25 Mar [Fundamentals of ZKP and ML](https://youtu.be/1gkTFRL_asc)
+
+> 26 Mar []()
