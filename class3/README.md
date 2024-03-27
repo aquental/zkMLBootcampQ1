@@ -2,6 +2,13 @@
 
 [Lesson](./Lesson3.pdf)
 
+### Links
+
+> [decentralized compute to push the boundaries of machine learning](https://www.gensyn.ai/)
+
+> [SynthID](https://deepmind.google/technologies/synthid/)
+
+
 [Homework](./Homework3.pdf)
 
 ---
