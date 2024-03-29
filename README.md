@@ -32,10 +32,14 @@ Advanced bootcamp focused exclusively on Zero Knowledge Machine Learning. Taught
 
 ## Videos
 
-> 25 Mar [Fundamentals of ZKP and ML](https://youtu.be/1gkTFRL_asc)
+> [class 1](./class1)
+> > 25 Mar [Fundamentals of ZKP and ML](https://youtu.be/1gkTFRL_asc)
 
-> 26 Mar [Introduction to ML](https://youtu.be/y_Nl5PF8vX0)
+> [class 2](./class2)
+> > 26 Mar [Introduction to ML](https://youtu.be/y_Nl5PF8vX0) 
 
-> 27 Mar [Intro to zkML/Use cases](https://youtu.be/SnYBN3y3mp4)
+> [class 3](./class3)
+> > 27 Mar [Intro to zkML/Use cases](https://youtu.be/SnYBN3y3mp4) 
 
-> 28 Mar [EZKL workshop](https://youtu.be/2FWQvj4-3aw)
+> [class 4](./class4)
+> > 28 Mar [EZKL workshop](https://youtu.be/2FWQvj4-3aw) 
