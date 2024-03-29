@@ -22,7 +22,7 @@ Advanced bootcamp focused exclusively on Zero Knowledge Machine Learning. Taught
 
 [_dcbuilder_/**Worldcoin**](https://twitter.com/DCbuild3r)
 
-[_jseam_/**ezki**](https://www.linkedin.com/in/jason-m-6147221/)
+[_jseam_/**ezki**](https://www.linkedin.com/in/jason-m-6147221/) ✔️
 
 [_Lance Davis_/**Gizatech**](https://www.linkedin.com/in/lancendavis/)
 
