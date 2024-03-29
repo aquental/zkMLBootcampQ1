@@ -38,4 +38,4 @@ Advanced bootcamp focused exclusively on Zero Knowledge Machine Learning. Taught
 
 > 27 Mar [Intro to zkML/Use cases](https://youtu.be/SnYBN3y3mp4)
 
-> 28 Mar [?](https://youtu.be/xxx)
+> 28 Mar [EZKL workshop](https://youtu.be/2FWQvj4-3aw)
