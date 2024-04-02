@@ -24,6 +24,12 @@
 
 [world ID 2.0](https://worldcoin.org/world-id)
 
+[Open Iris](https://github.com/worldcoin/open-iris)
+
+[ZK Hack](https://www.zkkrakow.com/)
+
+[Eth Prague](https://ethprague.com/)
+
 [Homework](./Homework5.pdf)
 
 ---
