@@ -52,10 +52,10 @@ Advanced bootcamp focused exclusively on Zero Knowledge Machine Learning. Taught
 <summary>Second week </summary>
 
 > [class 5](./class5)
-> > 2 Apr []()
+> > 2 Apr [zkML timeline and challanges](https://youtu.be/6MXqRw7LLys)
 
 > [class 6](./class6)
-> > 3 Apr []()
+> > 3 Apr [zkSNARK process, commitment schemnes](https://youtu.be/reDs49uMvSA)
 
 > [class 7](./class7)
 > > 4 Apr []()
