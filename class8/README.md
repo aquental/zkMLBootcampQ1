@@ -7,6 +7,10 @@
 
 [Ingopedia](https://www.ingonyama.com/ingopedia/communityguide)
 
+#### Ingonyama Moon Math Club
+
+[Playlist](https://www.youtube.com/watch?v=diDyZh2elcY&list=PLormosL00ryKvlKvMgezcSBtANAhqkm44)
+
 [Homework](./Homework8.pdf)
 
 ---
