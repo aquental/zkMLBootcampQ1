@@ -68,6 +68,9 @@ Advanced bootcamp focused exclusively on Zero Knowledge Machine Learning. Taught
 > > 8 Apr [Ingonyama Workshop](https://www.youtube.com/watch?v=Lu4JFOR_Y-o)
 
 > [class 9](./class9)
-> > 9 Apr []()
+> > 9 Apr [zk Ganes Introduction]()
+
+> [class 10](./class10)
+> > 9 Apr [Tensor Plonk / Zero Gravity]()
 
 </details>
