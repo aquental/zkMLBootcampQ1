@@ -18,3 +18,7 @@
 ---
 
 # **_Homework 9_**
+
+> [episode 313](https://zeroknowledge.fm/313-2/)
+>
+> [ZK10: ZPU: The Zero-Knowledge Processing Unit - Yuval Domb](https://www.youtube.com/watch?v=3Q5IpXyqaDw)
