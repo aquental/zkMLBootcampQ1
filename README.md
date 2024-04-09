@@ -58,6 +58,16 @@ Advanced bootcamp focused exclusively on Zero Knowledge Machine Learning. Taught
 > > 3 Apr [zkSNARK process, commitment schemnes](https://youtu.be/reDs49uMvSA)
 
 > [class 7](./class7)
-> > 4 Apr []()
+> > 4 Apr [Modulus workshop](https://youtu.be/pjmNCduaYpY)
+
+</details>
+<details>
+<summary>Second week </summary>
+
+> [class 8](./class8)
+> > 8 Apr [Ingonyama Workshop](https://www.youtube.com/watch?v=Lu4JFOR_Y-o)
+
+> [class 9](./class9)
+> > 9 Apr []()
 
 </details>
