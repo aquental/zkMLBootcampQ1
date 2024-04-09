@@ -1,6 +1,6 @@
 # Class 10 - Apr 10
 
-[Lesson](./Lesson10.pdf)
+[Lesson](./Lesson9.pdf)
 
 ### Topics
 
@@ -9,7 +9,7 @@
 
 ### Links
 
-[Homework](./Homework10.pdf)
+[Homework](./Homework9.pdf)
 
 ---
 

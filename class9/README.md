@@ -1,6 +1,6 @@
 # Class 9 - Apr 10
 
-[Lesson](./Lesson9.pdf)
+[Lesson](./Lesson8.pdf)
 
 ### Topics
 
@@ -13,7 +13,7 @@
 
 [OpenWorm](https://openworm.org/)
 
-[Homework](./Homework9.pdf)
+[Homework](./Homework8.pdf)
 
 ---
 

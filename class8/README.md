@@ -1,7 +1,5 @@
 # Class 8 - Apr 8
 
-[Lesson](./Lesson8.pdf)
-
 ### Topics
 
 - Ingonyama Workshop: “Reproducibility in zkML”
@@ -15,8 +13,6 @@
 #### Ingonyama Moon Math Club
 
 [Playlist](https://www.youtube.com/watch?v=diDyZh2elcY&list=PLormosL00ryKvlKvMgezcSBtANAhqkm44)
-
-[Homework](./Homework8.pdf)
 
 ---
 
