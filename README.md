@@ -49,7 +49,7 @@ Advanced bootcamp focused exclusively on Zero Knowledge Machine Learning. Taught
 
 </details>
 <details>
-<summary>Second week </summary>
+<summary>Second week ✔️</summary>
 
 > [class 5](./class5)
 > > 2 Apr [zkML timeline and challanges](https://youtu.be/6MXqRw7LLys)
@@ -62,7 +62,7 @@ Advanced bootcamp focused exclusively on Zero Knowledge Machine Learning. Taught
 
 </details>
 <details>
-<summary>Second week </summary>
+<summary>Third week </summary>
 
 > [class 8](./class8)
 > > 8 Apr [Ingonyama Workshop](https://www.youtube.com/watch?v=Lu4JFOR_Y-o)
