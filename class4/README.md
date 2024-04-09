@@ -2,6 +2,10 @@
 
 [Lesson](./Lesson4.pdf)
 
+### Topics
+
+- EZKL Workshop: “Building zkML Apps with EZKL”
+
 [Homework](./Homework4.pdf)
 
 ---

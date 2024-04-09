@@ -1,6 +1,8 @@
 # Class 7 - Apr 4
 
-[Lesson](./Lesson7.pdf)
+### Topics
+
+- Modulus Workshop: “GKR - Specialized Proving for 1000x Faster ZKML”
 
 ### Links
 

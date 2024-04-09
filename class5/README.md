@@ -2,6 +2,13 @@
 
 [Lesson](./Lesson5.pdf)
 
+### Topics
+
+- Review
+- Timeline of zkML
+- Challenges facing zkML
+- dcBuilder (Worldcoin) AMA
+
 ### Links
 
 [ZKML Endgame: Specialized ZK Proving with GKR - Ryan Cao](https://www.youtube.com/watch?v=tPZDIzrsg-E)
