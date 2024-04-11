@@ -71,6 +71,9 @@ Advanced bootcamp focused exclusively on Zero Knowledge Machine Learning. Taught
 > > 9 Apr [zk Ganes Introduction](https://youtu.be/a5KHB5KtWfY)
 
 > [class 10](./class10)
-> > 10 Apr [Tensor Plonk / Zero Gravity]()
+> > 10 Apr [Tensor Plonk / Zero Gravity](https://youtu.be/a5KHB5KtWfY)
+
+> [class 11](./class11)
+> > 11 Apr [Axiom / ERC-7007 / Hardware for zkML / Netron / Taceo / Modulus - GPT2](https://youtu.be/a5KHB5KtWfY)
 
 </details>
