@@ -1,6 +1,6 @@
 # zkMLBootcampQ1
 
-Advanced bootcamp focused exclusively on Zero Knowledge Machine Learning. Taught by the fantastic team at Extropy.io, covers the way machine learning has recently been influencing cryptography and its applications in blockchain.
+Advanced boot camp focused exclusively on Zero Knowledge Machine Learning. Taught by the fantastic team at Extropy.io, it covers the way machine learning has recently been influencing cryptography and its applications in blockchain.
 
 > ###### [Hacker pack](https://encodeclub.notion.site/zkML-Bootcamp-Q1-2024-56797105136243a5b60d0cd509a13bf6)
 >
@@ -52,7 +52,7 @@ Advanced bootcamp focused exclusively on Zero Knowledge Machine Learning. Taught
 <summary>Second week ✔️</summary>
 
 > [class 5](./class5)
-> > 2 Apr [zkML timeline and challanges](https://youtu.be/6MXqRw7LLys)
+> > 2 Apr [zkML timeline and challenges](https://youtu.be/6MXqRw7LLys)
 
 > [class 6](./class6)
 > > 3 Apr [zkSNARK process, commitment schemnes](https://youtu.be/reDs49uMvSA)
