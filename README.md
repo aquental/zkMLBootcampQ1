@@ -62,7 +62,7 @@ Advanced boot camp focused exclusively on Zero Knowledge Machine Learning. Taugh
 
 </details>
 <details>
-<summary>Third week </summary>
+<summary>Third week ✔️</summary>
 
 > [class 8](./class8)
 > > 8 Apr [Ingonyama Workshop](https://www.youtube.com/watch?v=Lu4JFOR_Y-o)
@@ -77,3 +77,13 @@ Advanced boot camp focused exclusively on Zero Knowledge Machine Learning. Taugh
 > > 11 Apr [Axiom / ERC-7007 / Hardware for zkML / Netron / Taceo / Modulus - GPT2](https://youtu.be/a5KHB5KtWfY)
 
 </details>
+<details>
+<summary>Third week ✔️</summary>
+
+> [class 12](./class12)
+> > 15 Apr [?]()
+
+> [class 13](./class12)
+> > 16 Apr []()
+
+</details>details>
