@@ -78,7 +78,7 @@ Advanced boot camp focused exclusively on Zero Knowledge Machine Learning. Taugh
 
 </details>
 <details>
-<summary>Third week ✔️</summary>
+<summary>Fourth week </summary>
 
 > [class 12](./class12)
 > > 15 Apr [?]()
@@ -86,4 +86,4 @@ Advanced boot camp focused exclusively on Zero Knowledge Machine Learning. Taugh
 > [class 13](./class12)
 > > 16 Apr []()
 
-</details>details>
+</details>
