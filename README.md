@@ -84,6 +84,6 @@ Advanced boot camp focused exclusively on Zero Knowledge Machine Learning. Taugh
 > > 15 Apr [ZAMA workshop](https://youtu.be/VxPMLcXJCo8)
 
 > [class 13](./class12)
-> > 16 Apr [Closure]()
+> > 16 Apr [Review](https://youtu.be/Cf3wcR_tSxk)
 
 </details>
