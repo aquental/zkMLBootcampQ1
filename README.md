@@ -87,3 +87,7 @@ Advanced boot camp focused exclusively on Zero Knowledge Machine Learning. Taugh
 > > 16 Apr [Review](https://youtu.be/Cf3wcR_tSxk)
 
 </details>
+
+# Certificate
+
+[OpenSea](https://opensea.io/assets/matic/0xdBf2138593aeC61d55d86E80b8ed86D7b9ba51F5/10972)
